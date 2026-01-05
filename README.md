@@ -70,6 +70,7 @@ Edit `.env` file and add your configuration:
 GOOGLE_API_KEY=your-google-api-key-here
 ADMIN_PASSWORD=your-secure-admin-password
 ```
+create a google api key watch the following yotube link : https://www.youtube.com/watch?v=yIyZvwHJnYA
 
 5. **Run the application:**
 ```bash
